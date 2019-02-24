@@ -11,7 +11,7 @@ and MetroMumble Theme by xPoke https://github.com/xPoke/MetroMumble .
 
 ![mumble](/screenshots/mumble.png)
 
-![mumble-user-interface](/screenshots/mumble-options.png)
+![mumble-options](/screenshots/mumble-options.png)
 
 
 ##### Installation
@@ -23,4 +23,4 @@ In Mumble go to Configure > Settings > User Interface > Look and Feel. Choose St
 
 ##### Modification
 
-If you need to change the look of the theme please change /source/Adwaita.scss .
+If you need to change the look of the theme please change /source/Adwaita.scss and rebuild the theme with ```sass /source/Adwaita.scss Adwaita.qss```.
