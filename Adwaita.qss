@@ -1,5 +1,7 @@
-/*
- * Mumble Lite Theme
+/* MumbleAdwaita Theme
+ * https://github.com/ForlornWongraven/MumbleAdwaita
+ *
+ * Based on Mumble Lite Theme
  * https://github.com/mumble-voip/mumble-theme
  *
  * Based on MetroMumble Theme by xPoke
@@ -49,7 +51,7 @@ QObject::tab-bar,
 QObject::tab,
 QObject::section {
   font-family: Roboto, Dejavu Sans, Helvetica, Arial, sans-serif;
-  font-size: 11pt;
+  font-size: 10.5pt;
   margin: 0;
   padding: 0;
   outline: 0;
@@ -440,7 +442,7 @@ QTabBar::tab:bottom:only-one {
 
 QScrollBar {
   border-radius: 0;
-  font-size: 11pt; }
+  font-size: 10.5pt; }
 
 QScrollBar:vertical {
   border-left: 1px solid #B6B6B3;
@@ -784,7 +786,7 @@ UserView::item {
   padding: -2px;
   margin: 0 2px;
   margin-bottom: 2px;
-  font-size: 11pt; }
+  font-size: 10.5pt; }
 
 #qtIconToolbar QComboBox {
   font-size: 8pt; }
