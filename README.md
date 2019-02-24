@@ -4,8 +4,7 @@ This is a mumble skin with matching colours for the GNOME default theme Adwaita 
 
 
 Based on Mumble Lite Theme https://github.com/mumble-voip/mumble-theme
-and
-Based on MetroMumble Theme by xPoke https://github.com/xPoke/MetroMumble
+and MetroMumble Theme by xPoke https://github.com/xPoke/MetroMumble .
 
 
 ##### Screenshots
