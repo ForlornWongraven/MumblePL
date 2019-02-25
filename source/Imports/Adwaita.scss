@@ -6,72 +6,72 @@
 // Skin color definitions below
 $base-padding: 4px;
 $base-bg: #FFFFFF;
-$base-hover: #4A90D9;
-$base-pressed: #DDD;
+$base-hover: #EAEBEA;
+$base-pressed: #DBDCDB;
 $base-text: #333;
-$base-text-disabled: #BBB;
-$base-border: #B6B6B3;
-$base-border-focus: #7F817C;
+$base-text-disabled: #8B8F93;
+$base-border: #242424;
+$base-border-focus: #ABAEAF;
 $base-border-radius: 2px;
-$item-selected-active-bg: #6E95C9;
-$item-selected-active-border: 1px solid #B6B6B3;
-$item-selected-inactive-bg: #F4F4F4;
-$item-selected-inactive-border: 1px solid #B6B6B3;
-$sub-bg: #FFF;
-$sub-hover: #eee;
+$item-selected-active-bg: #DBDCDB;
+$item-selected-active-border: 1px solid #242424;
+$item-selected-inactive-bg: #F4F4F3;
+$item-selected-inactive-border: 1px solid #242424;
+$sub-bg: #FFFFFF;
+$sub-hover: #EAEBEA;
 $sub-text: #111;
-$sub-highlight: #B6B6B3;
-$dialog-bg: $base-bg;
-$median-bg: #F4F4F4;
-$toolbutton-on: #FFF;
+$sub-highlight: #242424;
+$dialog-bg: #F4F4F3;
+$median-bg: #F4F4F3;
+$toolbutton-on: #FFFFFF;
 $toolbutton-border: #CCC;
-$toolbutton-hover: #ECECEA;
+$toolbutton-hover: #EAEBEA;
 $toolbutton-hover-border: #CCC;
 $toolbutton-pressed: $base-pressed;
-$highlight-bg: #B6B6B3;
-$highlight-pressed: #4A90D9;
-$highlight-text: #FFF;
-$menu-bg: #F4F4F4;
-$menuitem-hover: #6E95C9;
-$menuitem-border: #B6B6B3;
-$scrollbar-border: #B6B6B3;
-$scrollbar-handle: #B6B6B3;
-$scrollbar-handle-border: $base-border;
-$scrollbar-handle-hover: #B6B6B3;
-$input-bg: #FFF;
-$input-border: 1px solid #B6B6B3;
-$input-hover: #F4F4F4;
+$highlight-bg: #EAEBEA;
+$highlight-pressed: #DBDCDB;
+$highlight-text: #000000;
+$menu-bg: #F4F4F3;
+$menuitem-hover: #EAEBEA;
+$menuitem-border: #242424;
+$scrollbar-border: #F4F4F3;
+$scrollbar-handle: #ABAEAF;
+$scrollbar-handle-border: #242424;
+$scrollbar-handle-hover: #EAEBEA;
+$input-bg: #FFFFFF;
+$input-border: 1px solid #242424;
+$input-hover: #F4F4F3;
 $control-icon: #666;
-$control-icon-disabled: #CCC;
-$control-disabled: #F4F4F4;
-$slider-groove: #F4F4F4;
-$slider-groove-border: #B6B6B3;
-$slider-fill: #B6B6B3;
-$slider-fill-border: #7F817C;
-$slider-handle: #FFF;
-$slider-handle-border: #B6B6B3;
-$slider-handle-focus: #ECECEA;
-$slider-handle-focus-border: #7F817C;
-$slider-handle-hover: #F4F4F4;
-$slider-handle-pressed: #6E95C9;
-$slider-handle-pressed-border: #7F817C;
-$tab-selected: #FFF;
+$control-icon-disabled: #8B8F93;
+$control-disabled: #F4F4F3;
+$slider-groove: #F4F4F3;
+$slider-groove-border: #242424;
+$slider-fill: #242424;
+$slider-fill-border: #ABAEAF;
+$slider-handle: #FFFFFF;
+$slider-handle-border: #242424;
+$slider-handle-focus: #EAEBEA;
+$slider-handle-focus-border: #ABAEAF;
+$slider-handle-hover: #F4F4F3;
+$slider-handle-pressed: #3092D9;
+$slider-handle-pressed-border: #ABAEAF;
+$tab-selected: #FFFFFF;
 $tab-deselected: #EEE;
 $tab-deselected-text: $sub-text;
 $tab-separator: $base-border;
-$tab-hover: #DDD;
-$button-bg: #FFF;
-$button-hover: #F4F4F4;
-$button-focus: #F4F4F4;
-$button-focus-hover-bg: #6E95C9;
-$button-focus-hover-border: #7F817C;
-$button-border: 1px solid #B6B6B3;
-$button-hover-border: #AAA;
+$tab-hover: #EAEBEA;
+$button-bg: #FFFFFF;
+$button-hover: #F4F4F3;
+$button-focus: #F4F4F3;
+$button-focus-hover-bg: #3092D9;
+$button-focus-hover-border: #ABAEAF;
+$button-border: 1px solid #242424;
+$button-hover-border: #ABAEAF;
 $radio: url(skin:controls/radio_check_lite.svg);
 $radio_disabled: url(skin:controls/radio_check_disabled.svg);
 $checkbox: url(skin:controls/checkbox_check_lite.svg);
 $checkbox-disabled: url(skin:controls/checkbox_check_disabled.svg);
-$link: #6E95C9;
+$link: #3092D9;
 
 $font-family: Roboto, Dejavu Sans, Helvetica, Arial, sans-serif;
 $font-size-bigger: 13pt;
@@ -84,12 +84,13 @@ $font-size-qslider-groove: 3pt;
 $font-size-qslider-handle: 4pt;
 
 // Used colours
-// #B6B6B3
+// #242424
 // #E8E8E7
-// #F4F4F4
-// #232729
+// #F4F4F3
+// #8B8F93
 // #FFFFFF
 // #4A90D9
-// #7F817C
-// #6E95C9
-// #ECECEA
+// #ABAEAF
+// #3092D9
+// #EAEBEA hover
+// #DBDCDB

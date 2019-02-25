@@ -5,73 +5,73 @@
 
 // Skin color definitions below
 $base-padding: 4px;
-$base-bg: #383838;
-$base-hover: #333;
-$base-pressed: #424242;
-$base-text: #eee;
-$base-text-disabled: #424242;
-$base-border: #212121;
-$base-border-focus: #757575;
+$base-bg: #FFFFFF;
+$base-hover: #4A90D9;
+$base-pressed: #DDD;
+$base-text: #333;
+$base-text-disabled: #BBB;
+$base-border: #B6B6B3;
+$base-border-focus: #7F817C;
 $base-border-radius: 2px;
-$item-selected-active-bg: #757575;
-$item-selected-active-border: 1px solid #757575;
-$item-selected-inactive-bg: #303030;
-$item-selected-inactive-border: 1px solid #303030;
-$sub-bg: #282828;
-$sub-hover: #333;
-$sub-text: #FAFAFA;
-$sub-highlight: #555;
-$dialog-bg: #212121;
-$median-bg: #2C2C2C;
-$toolbutton-on: #444;
-$toolbutton-border: #444;
-$toolbutton-hover: #757575;
-$toolbutton-hover-border: #757575;
+$item-selected-active-bg: #6E95C9;
+$item-selected-active-border: 1px solid #B6B6B3;
+$item-selected-inactive-bg: #F4F4F4;
+$item-selected-inactive-border: 1px solid #B6B6B3;
+$sub-bg: #FFF;
+$sub-hover: #eee;
+$sub-text: #111;
+$sub-highlight: #B6B6B3;
+$dialog-bg: $base-bg;
+$median-bg: #F4F4F4;
+$toolbutton-on: #FFF;
+$toolbutton-border: #CCC;
+$toolbutton-hover: #ECECEA;
+$toolbutton-hover-border: #CCC;
 $toolbutton-pressed: $base-pressed;
-$highlight-bg: #4285F4;
-$highlight-pressed: #4285F4;
+$highlight-bg: #B6B6B3;
+$highlight-pressed: #4A90D9;
 $highlight-text: #FFF;
-$menu-bg: #2C2C2C;
-$menuitem-hover: #757575;
-$menuitem-border: #757575;
-$scrollbar-border: $base-border;
-$scrollbar-handle: #666;
+$menu-bg: #F4F4F4;
+$menuitem-hover: #6E95C9;
+$menuitem-border: #B6B6B3;
+$scrollbar-border: #B6B6B3;
+$scrollbar-handle: #B6B6B3;
 $scrollbar-handle-border: $base-border;
-$scrollbar-handle-hover: #888;
-$input-bg: #282828;
-$input-border: 1px solid #383838;
-$input-hover: #424242;
-$control-icon: #888;
-$control-icon-disabled: #444;
-$control-disabled: #282828;
-$slider-groove: #383838;
-$slider-groove-border: #383838;
-$slider-fill: #4285F4;
-$slider-fill-border: #4285F4;
-$slider-handle: #777;
-$slider-handle-border: #222;
-$slider-handle-focus: #4285F4;
-$slider-handle-focus-border: #226;
-$slider-handle-hover: #999;
-$slider-handle-pressed: #bbb;
-$slider-handle-pressed-border: #222;
-$tab-selected: #333;
-$tab-deselected: #212121;
-$tab-deselected-text: #ccc;
-$tab-separator: #111;
-$tab-hover: #757575;
-$button-bg: #444;
-$button-hover: #757575;
-$button-focus: #757575;
-$button-focus-hover-bg: #4285F4;
-$button-focus-hover-border: #4285F4;
-$button-border: 1px solid #444;
-$button-hover-border: #555;
-$radio: url(skin:controls/radio_check_dark.svg);
+$scrollbar-handle-hover: #B6B6B3;
+$input-bg: #FFF;
+$input-border: 1px solid #B6B6B3;
+$input-hover: #F4F4F4;
+$control-icon: #666;
+$control-icon-disabled: #CCC;
+$control-disabled: #F4F4F4;
+$slider-groove: #F4F4F4;
+$slider-groove-border: #B6B6B3;
+$slider-fill: #B6B6B3;
+$slider-fill-border: #7F817C;
+$slider-handle: #FFF;
+$slider-handle-border: #B6B6B3;
+$slider-handle-focus: #ECECEA;
+$slider-handle-focus-border: #7F817C;
+$slider-handle-hover: #F4F4F4;
+$slider-handle-pressed: #6E95C9;
+$slider-handle-pressed-border: #7F817C;
+$tab-selected: #FFF;
+$tab-deselected: #EEE;
+$tab-deselected-text: $sub-text;
+$tab-separator: $base-border;
+$tab-hover: #DDD;
+$button-bg: #FFF;
+$button-hover: #F4F4F4;
+$button-focus: #F4F4F4;
+$button-focus-hover-bg: #6E95C9;
+$button-focus-hover-border: #7F817C;
+$button-border: 1px solid #B6B6B3;
+$button-hover-border: #AAA;
+$radio: url(skin:controls/radio_check_lite.svg);
 $radio_disabled: url(skin:controls/radio_check_disabled.svg);
-$checkbox: url(skin:controls/checkbox_check_dark.svg);
+$checkbox: url(skin:controls/checkbox_check_lite.svg);
 $checkbox-disabled: url(skin:controls/checkbox_check_disabled.svg);
-$link: #39a5dd;
+$link: #6E95C9;
 
 $font-family: Roboto, Dejavu Sans, Helvetica, Arial, sans-serif;
 $font-size-bigger: 13pt;
@@ -82,3 +82,14 @@ $font-size-small: 8pt;
 $font-size-extra-small: 7pt;
 $font-size-qslider-groove: 3pt;
 $font-size-qslider-handle: 4pt;
+
+// Used colours
+// #B6B6B3
+// #E8E8E7
+// #F4F4F4
+// #232729
+// #FFFFFF
+// #4A90D9
+// #7F817C
+// #6E95C9
+// #ECECEA
