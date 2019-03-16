@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAAA;;;;;;;;;;;;GAYG;ACGH,SACA;EACC,gBAAgB,EAAE,kBAAkB;EACnC,iBAAiB,EAAE,SAAS;EAC7B,qBAAqB,EAAE,KAAK;EAC5B,mBAAmB,EAAE,YAAY",
+"mappings": "AAAA;;;;;;;;;;;;GAYG;ACIH,SACA;EACC,gBAAgB,EAAE,kBAAkB;EACnC,iBAAiB,EAAE,SAAS;EAC7B,qBAAqB,EAAE,KAAK;EAC5B,mBAAmB,EAAE,YAAY",
 "sources": ["source/PandemicLegion.scss","source/Imports/PandemicLegion.scss"],
 "names": [],
 "file": "PandemicLegion.qss"
